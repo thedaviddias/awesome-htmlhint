@@ -1,0 +1,25 @@
+{
+  "name": "awesome-htmlhint",
+  "version": "1.0.0",
+  "description": "> This is an awesome list",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "devDependencies": {
+		"awesome-lint": "*"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://thedaviddias@github.com/thedaviddias/awesome-htmlhint.git"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedaviddias/awesome-htmlhint/issues"
+  },
+  "homepage": "https://github.com/thedaviddias/awesome-htmlhint#readme"
+}
