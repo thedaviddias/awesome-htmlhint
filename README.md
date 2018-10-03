@@ -25,7 +25,7 @@
 ## Build tools
 
 - Grunt: [grunt-htmlhint](https://www.npmjs.com/package/grunt-htmlhint)
-- Gulp: [gulp-eslint](https://www.npmjs.com/package/gulp-eslint)
+- Gulp: [gulp-htmlhint](https://www.npmjs.com/package/gulp-htmlhint)
 - Webpack: [htmlhint-loader](https://www.npmjs.com/package/htmlhint-loader)
 
 ## Online tools
